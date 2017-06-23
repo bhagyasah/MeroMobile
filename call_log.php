@@ -19,7 +19,7 @@ $date = date('m/d/Y h:i:s', time());
  echo'Not Inerted';
  }
  else{	 
-	 echo'Inserted';
+	 echo'All call logs are succesfully Inserted';
  }
  header ("refresh:2; url=index.html");  
 ?>
