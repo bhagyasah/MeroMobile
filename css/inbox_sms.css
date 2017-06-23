@@ -1,0 +1,18 @@
+form{
+	width: 40px;
+	height: 10px;
+	text-align: center;
+	margin-top: -20px;
+	margin-left:-1px;
+
+}
+input #data1{
+	margin: -20px;
+
+	height: 20px;
+	width: 10px;
+}
+input #submit{
+	width: 40px;
+	height: 20px;
+}

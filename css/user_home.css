@@ -1,0 +1,11 @@
+.welcome_message{
+	width: 100px;
+	height: 100px;
+	color: black;
+	margin-right: 10px;
+	float:right;
+    margin-top:0px;
+}
+/*.main #banner{
+	background: url(../images/header.p);
+}*/

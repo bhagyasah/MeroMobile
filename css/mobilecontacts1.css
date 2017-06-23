@@ -1,0 +1,21 @@
+.contact_container{
+	color: black;
+	background:white;
+
+	width: auto;
+	margin-left: 1px;
+	margin-right: 3px;
+	min-height: 500px;
+
+
+}
+table{
+	margin-left: 50px;
+	width: 600px;
+	min-width: 600px;
+
+}
+thead{
+	background: gray;
+	font-size: 20px;
+}
