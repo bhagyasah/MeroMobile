@@ -24,7 +24,7 @@ $password_hash = md5($passwordvalue);
 		{
 			$query_num_rows = mysql_num_rows($query_run);
 			if ($query_num_rows==0) {
-				echo "invalid username and password combination";
+				echo "Invalid Username And Password Combination";
 			 	# code...
 			 }else if($query_num_rows==1){
 			 	//echo "login succesfull";
