@@ -1,9 +1,9 @@
 <?php
 $title = $_POST['title'];
 $message = $_POST['message'];
-$token = "dUL5Ry8oo3g:APA91bH3VrHjeKFCqVtFDItmkBGNKRaWIb8_MY8vxmP_ZlBjpAZwIpgFJ1sZcUyP-QrQ2bWcRrBt29NghbHA7ePc_047wpI6z-ErW6X9euSWfPbPyqEzkWXhKXvmxkUK7AQjd77kM3TR";
+$token = "";
 
-define( 'API_ACCESS_KEY', 'AAAAaPnH52I:APA91bHcpyCcALhFgSMgNN_yY-tKZYEE6TbADXvmds_zLZGG0Qr5jPrHjkOL7TEyAfPS7T9bQ-vSNkPm3j-hepuApfECJSg5PDNyqMETAdP6a39ygR4Y0YqRSAIwEq6YBdy3zWyZ1HpI');
+define( 'API_ACCESS_KEY', '');
  //   $registrationIds = ;
 #prep the bundle
   //    $msg = array
