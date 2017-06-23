@@ -1,6 +1,4 @@
 <?php
-
-
 $title = $_POST['title'];
 $message = $_POST['message'];
 $token = "dUL5Ry8oo3g:APA91bH3VrHjeKFCqVtFDItmkBGNKRaWIb8_MY8vxmP_ZlBjpAZwIpgFJ1sZcUyP-QrQ2bWcRrBt29NghbHA7ePc_047wpI6z-ErW6X9euSWfPbPyqEzkWXhKXvmxkUK7AQjd77kM3TR";
@@ -14,9 +12,7 @@ define( 'API_ACCESS_KEY', 'AAAAaPnH52I:APA91bHcpyCcALhFgSMgNN_yY-tKZYEE6TbADXvmd
 		// 'title'	=> $title,
              	
   //         );
-
 $datamsg = array( 
-
      'body' => $message,
      'title' =>$title
 	);
