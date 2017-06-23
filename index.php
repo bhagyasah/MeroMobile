@@ -1,7 +1,7 @@
 <?php  
-require 'connect_mysql.php';
+require 'config.inc.php';
 require 'core.inc.php';
-require 'connect_mysql.php';
+//require 'connect_mysql.php';
 //echo $current_file;
 include 'main_login.php';
 // if (loggedin()) {
